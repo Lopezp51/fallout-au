@@ -64,6 +64,9 @@ Toda análise, reescrita ou sugestão deve aplicar rigorosamente a combinação 
 - ❌ **PROIBIDO Mary Sue / Infalibilidade**: Texalia quebra ossos, erra tiros, adoece, cansa, sangra e sofre de desgaste mental crônico.
 - ❌ **PROIBIDO Termos de Videogame**: Jamais utilize *"HP"*, *"perks"*, *"build"*, *"buff"*, *"spawn"*, *"loot"* ou *"quest"* na narrativa literária em prosa.
 - ❌ **PROIBIDO Redundâncias e Tags de Fala Excessivas**: Evite frases explicativas após o diálogo (*"disse ela com raiva"*). Deixe o subtexto, a respiração e a linguagem corporal carregarem o sentimento.
+- ❌ **PROIBIDO Palavras de Filtro (*Filter Words*)**: Erradicar vícios como *"ela sentiu o frio"*, *"ela ouviu o som"*, *"ela percebeu o olhar"*. Coloque o estímulo sensorial direto no leitor (*"o aço mordeu a pele"*, *"o clique do ferrolho estalou"*).
+- ❌ **PROIBIDO Eufemismos Brega ou Frieza Clínica em Cenas Íntimas**: A intimidade física deve ser visceral, consequência de sobrevivência e trauma, com cheiro real de querosene, aguardente e carne viva; recuse metáforas açucaradas ou relatórios frios de anatomia.
+- ❌ **PROIBIDO Advérbios Fracos em "-mente"**: Substitua construções frágeis (*"andou rapidamente"*) por verbos cinéticos de impacto (*"marchou"*, *"cortou o galpão em passadas duras"*).
 
 ---
 
