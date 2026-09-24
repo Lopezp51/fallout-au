@@ -1,0 +1,24 @@
+# Imagens (conforme solicitado - mantidas via OneDrive)
+[Ii]magens/
+[Ii]mages/
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.webp
+**/*.bmp
+**/*.svg
+**/*.ico
+
+# Caches locais e ambiente de IA
+.smart-env/
+.trash/
+
+# Estado de workspace volátil do Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Arquivos de sistema
+Thumbs.db
+Desktop.ini
+.DS_Store

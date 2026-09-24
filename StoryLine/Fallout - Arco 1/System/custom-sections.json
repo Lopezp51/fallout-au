@@ -1,0 +1,41 @@
+{
+  "characterCustomSections": [],
+  "locationCustomSections": [],
+  "codexCategoryCustomSections": {
+    "worldbuilding": [],
+    "lore": [],
+    "items": [],
+    "creatures": [],
+    "organizations": [],
+    "culture": [],
+    "systems": []
+  },
+  "codexVisualGroups": {
+    "character": [],
+    "location": [],
+    "items": [],
+    "worldbuilding": [],
+    "lore": [],
+    "creatures": [],
+    "organizations": [],
+    "culture": [],
+    "systems": []
+  },
+  "customLocationTypes": [],
+  "codexCustomCategories": [
+    {
+      "id": "worldbuilding",
+      "label": "Worldbuilding",
+      "icon": "cog"
+    }
+  ],
+  "codexEnabledCategories": [
+    "items",
+    "creatures",
+    "lore",
+    "organizations",
+    "culture",
+    "systems",
+    "worldbuilding"
+  ]
+}

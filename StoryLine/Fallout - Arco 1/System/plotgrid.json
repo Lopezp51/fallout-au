@@ -1,0 +1,46 @@
+{
+  "rows": [
+    {
+      "id": "r-mu65kgns-syltpo",
+      "label": "Row 1",
+      "height": 80,
+      "bgColor": ""
+    }
+  ],
+  "columns": [
+    {
+      "id": "c-mu65kfmw-jsnwjc",
+      "label": "Col 1",
+      "width": 160,
+      "bgColor": ""
+    },
+    {
+      "id": "c-mu65khwf-zxsfin",
+      "label": "Col 2",
+      "width": 160,
+      "bgColor": ""
+    }
+  ],
+  "cells": {
+    "r-mu65kgns-syltpo-c-mu65kfmw-jsnwjc": {
+      "id": "r-mu65kgns-syltpo-c-mu65kfmw-jsnwjc",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    },
+    "r-mu65kgns-syltpo-c-mu65khwf-zxsfin": {
+      "id": "r-mu65kgns-syltpo-c-mu65khwf-zxsfin",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    }
+  },
+  "zoom": 1,
+  "stickyHeaders": true
+}
