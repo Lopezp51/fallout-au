@@ -84,7 +84,7 @@
     "dailyActivity": [
       {
         "date": "2026-09-19",
-        "filePath": "StoryLine/Fallout - Arco 1/Scenes/Act 1/01-01 A Lousa, a Disciplina e a Fratura do 9,8.md",
+        "filePath": "StoryLine/Fallout - Arco 1/Scenes/Act 1/01-01 O Peso da Primeira Fileira.md",
         "wordCountStart": 1853,
         "charCountStart": 11070,
         "changes": [],
@@ -250,7 +250,7 @@
       },
       {
         "date": "2026-09-20",
-        "filePath": "StoryLine/Fallout - Arco 1/Scenes/Act 1/01-01 A Lousa, a Disciplina e a Fratura do 9,8.md",
+        "filePath": "StoryLine/Fallout - Arco 1/Scenes/Act 1/01-01 O Peso da Primeira Fileira.md",
         "wordCountStart": 1853,
         "charCountStart": 11070,
         "changes": [],
@@ -328,7 +328,7 @@
       },
       {
         "date": "2026-09-21",
-        "filePath": "StoryLine/Fallout - Arco 1/Scenes/Act 1/01-01 A Lousa, a Disciplina e a Fratura do 9,8.md",
+        "filePath": "StoryLine/Fallout - Arco 1/Scenes/Act 1/01-01 O Peso da Primeira Fileira.md",
         "wordCountStart": 1853,
         "charCountStart": 11070,
         "changes": [],
@@ -554,6 +554,28 @@
           }
         ],
         "id": 34
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "StoryLine/Fallout - Arco 1/Fallout - Arco 1.md",
+        "wordCountStart": 12,
+        "charCountStart": 127,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2026-09-23",
+        "filePath": "StoryLine/Fallout - Arco 1/Scenes/Act 1/01-01 O Peso da Primeira Fileira.md",
+        "wordCountStart": 1853,
+        "charCountStart": 11070,
+        "changes": [
+          {
+            "timeKey": "23:35",
+            "w": -943,
+            "c": -5489
+          }
+        ],
+        "id": 36
       }
     ]
   }

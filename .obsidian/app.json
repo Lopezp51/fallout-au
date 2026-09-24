@@ -1,5 +1,8 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Imagens"
+  "attachmentFolderPath": "Imagens",
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "propertiesInDocument": "hidden"
 }
