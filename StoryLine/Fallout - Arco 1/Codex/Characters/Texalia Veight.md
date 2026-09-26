@@ -2,7 +2,7 @@
 type: character
 name: Texalia Veight
 created: 2026-09-17
-modified: 2026-09-17
+modified: 2026-09-24
 caseSensitive: false
 nickname: |-
   - Tex: Apelido de infância e juventude, nascido da cadência do Texas e do som dos motores V8; consolidado no pós-guerra por ser direto, simples e despido da burocracia do mundo antigo.
@@ -51,6 +51,9 @@ relations:
   - category: family
     type: parent
     target: Clara Veight
+  - category: custom
+    type: studant
+    target: Sra. Gable
 relationHistory:
   - id: relation-history-1789609685014-9h6h0f9qic
     category: family
@@ -64,6 +67,7 @@ gallery:
   - path: StoryLine/Fallout - Arco 1/Images/Tex - Pre War 01.png
     caption: Tex - Pre War 01
 ---
+
 ### **Tabela Cronológica Oficial do Arco 1 (A Linha do Tempo da Tex)**
 
 | Ano                | Idade da Tex | Evento na Vida de Texalia & Contexto Histórico                                                                                                                                                                                        |

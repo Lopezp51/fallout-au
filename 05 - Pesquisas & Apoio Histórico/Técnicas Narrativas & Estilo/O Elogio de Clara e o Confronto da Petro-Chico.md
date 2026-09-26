@@ -21,6 +21,14 @@ fontes_referencia:
 
 # O Elogio de Clara e o Confronto da Petro-Chico
 
+## 0. A Mente de Auditora e o Boletim como Protocolo de Sobrevivência
+A cobrança intransigente de **[[Clara Veight]]** por notas perfeitas (A+) e a recusa visceral a qualquer desvio (como um "A-") não decorriam de capricho, mas de um cálculo frio de sobrevivência socioeconômica no Texas pré-guerra:
+* **Asfixia Financeira e Custos Médicos**: A família Veight vivia no limite. A compra contínua de ampolas de broncodilatadores e a reposição de filtros químicos do concentrador de oxigênio da *General Atomics* drenavam toda a renda obtida por [[Jesse Veight]] na oficina. Não havia reserva para bancar estudos superiores.
+* **O Imperativo da Bolsa Integral (*Full Merit Scholarship*)**: Em uma economia pré-guerra asfixiada pela inflação das Guerras de Recursos e dominada por privilégios corporativos, o único passaporte de Texalia para a universidade era uma bolsa integral por mérito acadêmico. No sistema educacional americano da época (baseado em GPA 4.0 rigoroso e ranking de *Valedictorian*), um único **A-** abria margem para que os filhos da diretoria da refinaria levassem a vaga.
+* **A Auditoria de Não-Conformidade**: Como auditora sênior de logística, Clara tratava o boletim escolar como um laudo de inspeção de refinaria. Na engenharia de alta pressão, tolerância de 1% causa explosão de duto; para Clara, 1% de imperfeição acadêmica era a brecha que o mundo corporativo usaria para triturar a filha.
+
+---
+
 ## 1. O Elogio de Aço: A Noite do Concentrador de Oxigênio (Aos 13 Anos)
 O reforço condicionado de **[[Clara Veight]]** moldou a psique de **[[Texalia Veight]]** de forma irrevogável. Se Clara elogiasse a essência afetuosa da filha, haveria acolhimento; ao elogiar exclusivamente a capacidade de suportar a carga e não vacilar perante a morte, selou o destino de Texalia como uma perfeccionista patológica.
 
