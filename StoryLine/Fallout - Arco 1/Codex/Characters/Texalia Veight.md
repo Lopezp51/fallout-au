@@ -36,6 +36,7 @@ formativeMemories: |-
   - Os anos passados na bancada de Jesse aprendendo as tolerâncias do Ford Maverick V8 e a cadência honesta das ferramentas manuais.
   - O choque do assalto no cais de Boston, onde neutralizou o agressor no clinche de Muay Thai, mas levou um tiro de chumbo que exigiu o choque de realidade e o presente do revólver .44 dado por Lawrence Caldwell.
   - O julgamento militar de Nate Howard e o jantar acidental no North End de Boston que iniciou o slow burn epistolar de anos.
+  - O nascimento de Jessie no final de 2075: o instante em que desarmou sua couraça defensiva ao sentir o bebê quentinho nos braços, quebrou o fantasma austero de Clara e pisou no freio de mão de sua rotina obsessiva para viver plenamente a família.
 excludeTerms: '"Nora" (não utilizar na narrativa principal; a protagonista é Texalia/Tex).'
 custom:
   Facções Associadas: Minutemen (General), afinidade tática com a Irmandade do Aço (respeito a Danse), alinhamento ideológico posterior com ordem institucional (America Rising 2).

@@ -250,3 +250,39 @@ aliases:
   - Texalia fica de cama, acabada e convalescendo por vários dias.
   - Enquanto isso, Nick Valentine examina os restos mortais da cabeça de Kellogg e extrai o componente cibernético misterioso (**Cybernetic Brain Augment / Synth Component**), abrindo o gancho para a incursão ao *Memory Den* em Goodneighbor.
 
+---
+
+## 13. O Nascimento de Jessie: O Ponto de Inflexão Emocional de Texalia (O "Freio de Mão" & O Fantasma de Clara)
+*Contexto*: Durante a gravidez, a mente hipermetódica de Texalia encarou a chegada do filho sob a couraça pericial e austera herdada de sua mãe, Clara Veight — quase como um obstáculo logístico a ser controlado e administrado. O momento em que segura o recém-nascido nos braços representa o maior marco de ruptura emocional e libertação de sua vida pré-guerra.
+
+- [x] **A Gestação sob a Couraça de Clara Veight (O "Estorvo Logístico")**:
+  - Texalia reage à gravidez entrincheirando-se no trabalho: prazos na Vance & Associates, cálculos de engenharia mecânica e graxa no Maverick.
+  - O medo inconsciente de falhar, demonstrar fraqueza ou repetir a frieza rígida de Clara a faz manter um distanciamento preventivo, encarando os preparativos e exames como auditorias técnicas de conformidade.
+- [x] **A Cena do Parto & A Coreografia do Afeto (Vibe Kotoha & Inosuke)**:
+  - *O Encontro Sensorial*: As enfermeiras depositam o recém-nascido no peito de Texalia. Ao sentir o corpinho miúdo e quente contra a própria pele e ver seu rostinho, Texalia fica completamente estática e sem palavras — a couraça analítica se dissolve no silêncio e no choque físico daquele contato.
+  - *Nate & O Gesto Protetor*: Nate, comovido ao lado do leito, pede permissão em voz baixa para segurar o filho. Texalia deixa. Porém, no instante em que a enfermeira ensaia um gesto para pegar Jessie dos braços de Nate para os exames e pesagem de rotina, Texalia intervém de imediato, pedindo para segurar o bebê mais um pouco. Ela simplesmente se recusa a soltá-lo.
+  - *A Vibe de Kotoha & O Afeto Íntimo*: As palavras e o transbordar de ternura vêm depois, nos momentos a sós e na intimidade do lar (na vibe calorosa de Kotoha em *Demon Slayer*: *"Você é o meu tesouro... como você é quentinho... como não amar um anjinho desses e encher de carinho?"*).
+  - **A Ruptura do Fantasma da Mãe**: Texalia compreende visceralmente que maternidade não é auditoria de desempenho ou frieza defensiva. O fantasma da rigidez de Clara é expurgado pelo calor do filho.
+- [x] **Puxar o "Freio de Mão" & A Reorganização da Vida**:
+  - Pela primeira vez na vida, Texalia desacelera conscientemente sua marcha obsessiva.
+  - Ela reorganiza sua rotina milimétrica, delega litígios complexos no escritório, adia planos acadêmicos e coloca o convívio em Sanctuary Hills com Nate e Jessie como prioridade absoluta.
+  - Essa transição consolida os dois anos de convivência viva e calorosa que tornam o rapto de 2077 no Vault 111 uma ferida aberta e irreparável no pós-guerra.
+
+---
+
+## 14. O Mar Resplandecente: Horror Cósmico, Degradação de Texalia & O Confronto com Virgil
+*Contexto*: Durante a marcha rumo a Virgil no Arco 2, Texalia bebe o cálice dos Filhos do Átomo e sofre invasão neural de uma entidade atrelada ao leito de rocha de Dunwich ([[Ug-Qualtoth]]). A sequência aborda a quebra psicológica, a maternidade de chumbo, o julgamento no tribunal da cinza e o terror cósmico antes da chegada a Virgil.
+
+- [x] **Dossiê Narrativo Completo Estruturado**:
+  - Detalhado em: [[Dossiê Narrativo - O Horror Cósmico no Mar Resplandecente e a Degradação de Texalia]].
+  - *Ato I (Cratera)*: Alucinação em Post, Texas; anacronismos; a falsa Clara; o teste forense de Texalia; a resposta inumana da entidade.
+  - *Ato II (Travessia)*: Parada 1 (Maternidade de Chumbo / ataque a Heather / âncora do braço direito amputado); A Deriva (confusão com Vanessa / segredos do pai de Heather); Parada 2 (Noite no Red Rocket / Tribunal da Cinza com a Texalia de 2074).
+  - *Sequelas*: Perda da imunidade após a cura, queimação no nervo fantasma do braço amputado, mancha na íris, estática no Pip-Boy e momentos de vulnerabilidade íntima com Heather em noites de tempestade.
+- [x] **Confronto do Expurgo em Virgil Resolvido**:
+  - *Dinâmica*: Simulação de vítima pela entidade (*"Heather, me ajuda!"*); sabotagem técnica da Power Armor de Heather pelo conhecimento mecânico de Tex; ombrada cinética de Virgil; tentativa de terra arrasada com automutilação contida por Heather (que corta as próprias mãos); injeção pneumática de Virgil.
+  - *Ambiguidade Lovecraftiana*: Virgil explica racionalmente com biologia dura (micélio radiotrófico extremófilo com neurotoxinas), mas a dúvida íntima permanece em Heather (tentando se convencer de que falou do pai pescador dormindo perto da fogueira, embora a lembrança do olhar inumano não a deixe em paz).
+
+
+
+
+
